@@ -1,0 +1,198 @@
+#title{
+  background-color: #ff4c68;
+
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.container-fluid{
+
+  padding: 3% 15%;
+
+}
+
+.btn-pink{
+  border: 5px;
+  border-color: white;
+}
+
+.nav-item{
+  padding: 0 28px;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-family: "Ubuntu";
+  font-weight: bold;
+
+
+}
+
+
+.navbar{
+
+}
+
+
+.navbar-collapse{
+  padding-left: 50%;
+}
+
+.col-lg-6{
+  padding-top: 100px;
+
+}
+
+
+#dog-pic{
+  transform: rotate(28deg);
+  width: 30%;
+  z-index: 0;
+  position: absolute;
+  top: 80px;
+
+}
+
+#features{
+
+  z-index: 1;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+  padding: 120px 0;
+}
+
+body{
+  position: absolute;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+/* Download Buttons */
+.download-button{
+  margin:5% 3% 5% 0;
+}
+
+.icon{
+  margin-top: 75px;
+  margin-bottom: 1rem;
+  color: #ef8172;
+
+
+}
+
+.icon-text{
+  font-family: 'Montserrat',sans-serif;
+  line-height: 1.5;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.icon-p{
+  font-weight: lighter;
+  font-family: 'Montserrat',sans-serif;
+  color:#8f8f8f;
+  padding-bottom: 7%;
+}
+
+.icon:hover{
+  color:#ff4c68;We
+}
+
+#testimonials{
+
+  position: relative;
+  z-index: 1;
+  background-color: #ef8172;
+  color: #fff;
+  text-align: center;
+
+}
+
+.testimonial-image{
+  width: 15%;
+  border-radius: 100%;
+  margin: 7% 3% 0;
+}
+
+#press{
+    background-color: #ef8172;
+}
+
+.press-icons{
+  text-align: center;
+  padding: 0 3% 5%;
+  width: 20%;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/*Pricing Section*/
+
+.kart{
+  text-align: center;
+  padding: 3% 2%;
+}
+
+
+
+.klascta{
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 100px 0;
+}
+.findHeader{
+  padding: 50px;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.copyright{
+  text-align: center;
+  padding: 100px 0 20px 0;
+}
+
+.ikonClass{
+  margin-right: 20px;
+
+}
+
+.copyYazi{
+  padding-top: 20px;
+  color: gray;
+  padding-right: 20px;
+}
+
+#footer{
+  background-color: #ffff;
+}
+
+.aciklamaFiyatlar{
+  text-align: center;
+}
+@media (max-width: 995px){
+
+#dog-pic{
+  position: static;
+  transform: rotate(0);
+}
+  #title{
+  text-align: center;
+
+  }
+
+
+}
